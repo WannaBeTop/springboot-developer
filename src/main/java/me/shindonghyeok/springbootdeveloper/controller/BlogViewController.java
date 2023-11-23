@@ -1,4 +1,4 @@
-package me.shindonghyeok.springbootdeveloper.controller;
+package me.shindonghyeok.springbootdeveloper;
 
 import lombok.RequiredArgsConstructor;
 import me.shindonghyeok.springbootdeveloper.domain.Article;
